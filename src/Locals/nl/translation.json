@@ -1,0 +1,34 @@
+{
+  "home_title": "Welkom op onze website",
+  "home_desc": "Wij bieden de beste elektrische diensten.",
+
+  "about_title": "Over Ons",
+  "about_desc": "Wij zijn een bedrijf gespecialiseerd in elektrische oplossingen.",
+
+  "services_title": "Onze Diensten",
+  "services_desc": "Hier zijn de diensten die wij aanbieden.",
+
+  "service_details_title": "Diensten Details",
+  "service_details_desc": "Gedetailleerde informatie over de geselecteerde dienst.",
+
+  "partners_title": "Onze Partners",
+  "partners_desc": "Wij werken samen met betrouwbare partners over de hele wereld.",
+
+  "questions_title": "Veelgestelde Vragen",
+  "questions_desc": "Hier vindt u antwoorden op de meest gestelde vragen.",
+
+  "projects_title": "Onze Projecten",
+  "projects_desc": "Ontdek de projecten die wij met succes hebben afgerond.",
+
+  "project_details_title": "Project Details",
+  "project_details_desc": "Gedetailleerde informatie over het geselecteerde project.",
+
+  "electric_tips_title": "Elektrische Tips",
+  "electric_tips_desc": "Handige tips en advies voor veilig elektrisch gebruik.",
+
+  "contact_title": "Contacteer Ons",
+  "contact_desc": "Neem contact met ons op voor meer informatie.",
+
+  "error_title": "Pagina Niet Gevonden",
+  "error_desc": "Sorry, de pagina die u zoekt bestaat niet."
+}

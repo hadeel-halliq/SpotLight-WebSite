@@ -1,0 +1,34 @@
+{
+  "home_title": "Welcome to our website",
+  "home_desc": "We provide the best electrical services.",
+
+  "about_title": "About Us",
+  "about_desc": "We are a company specialized in electrical solutions.",
+
+  "services_title": "Our Services",
+  "services_desc": "Here are the services we offer.",
+
+  "service_details_title": "Service Details",
+  "service_details_desc": "Detailed information about the selected service.",
+
+  "partners_title": "Our Partners",
+  "partners_desc": "We work with trusted partners around the world.",
+
+  "questions_title": "Frequently Asked Questions",
+  "questions_desc": "Here you can find answers to the most common questions.",
+
+  "projects_title": "Our Projects",
+  "projects_desc": "Discover the projects we have successfully completed.",
+
+  "project_details_title": "Project Details",
+  "project_details_desc": "Detailed information about the selected project.",
+
+  "electric_tips_title": "Electrical Tips",
+  "electric_tips_desc": "Useful tips and advice for safe electrical usage.",
+
+  "contact_title": "Contact Us",
+  "contact_desc": "Get in touch with us for more information.",
+
+  "error_title": "Page Not Found",
+  "error_desc": "Sorry, the page you are looking for does not exist."
+}
