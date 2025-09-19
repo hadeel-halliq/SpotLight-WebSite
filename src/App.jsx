@@ -7,7 +7,7 @@ import ServiceDetails from "./Pages/ServiceDetails/ServiceDetails";
 import Partners from "./Pages/Partners/Partners";
 import AboutUs from "./Pages/AboutUs/AboutUs";
 import Questions from "./Pages/Questions/Questions";
-import Projects from "./Pages/Projcts/Projects";
+import Projects from "./Pages/Projects/Projects";
 import ProjectDetails from "./Pages/ProjectDetails/ProjectDetails";
 import ElectricTips from "./Pages/ElectricTips/ElectricTips";
 import Contact from "./Pages/Contact/Contact";
