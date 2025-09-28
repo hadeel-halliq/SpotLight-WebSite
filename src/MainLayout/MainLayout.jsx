@@ -6,12 +6,12 @@ import Footer from "../Components/LayOuts/Footer";
 export default function MainLayout() {
   return (
     <>
-      <ScrollToTop/>
-      <Header/>
+      <ScrollToTop />
+      <Header />
       <main>
-        <Outlet/>
+        <Outlet />
       </main>
-      <Footer/>
+      <Footer />
     </>
-  )
+  );
 }

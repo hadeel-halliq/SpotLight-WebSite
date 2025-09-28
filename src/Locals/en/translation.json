@@ -30,5 +30,78 @@
   "contact_desc": "Get in touch with us for more information.",
 
   "error_title": "Page Not Found",
-  "error_desc": "Sorry, the page you are looking for does not exist."
+  "error_desc": "Sorry, the page you are looking for does not exist.",
+
+  "home": "Home",
+  "last_projects": "Last Projects",
+  "services": "Services",
+  "contact": "Contact",
+  "about_us": "About us",
+
+  "hero-header": "Spotlight Elektrotechniek",
+  "hero-disc": "We support clients in the non-residential construction and private sector during renovation and new construction. We want to unburden our customers by thinking along with them and devising solutions for them.",
+  "button-name": "Call Now",
+  "second-button-name": "PLAY VIDEO",
+  "review-text": "5.0 Reviews Based on 150K Feedbacks",
+
+  "services-header": "Our services are customized",
+  "services-p": "We offer a comprehensive range of advanced electrical services for homes and businesses",
+  "services-card-title": "Advanced security system",
+  "services-card-content": "For commercial buildings or residential homes - 24/7 comprehensive protection",
+  "services-card-list": [
+    "High-definition surveillance cameras",
+    "Motion sensors",
+    "Burglar alarm"
+  ],
+  "services-card2-title": "Smart Home System",
+  "services-card2-content": "Installation of smart control systems in your home or workplace",
+  "services-card2-list": [
+    "Lighting and air conditioning control",
+    "Smart energy management",
+    "Remote control"
+  ],
+  "experience-years": "Years of Experience",
+
+  "electricity-header": "Electricity network extensions",
+  "electricity-p": "Integrated services for extending and installing electrical networks",
+  "first-card-title": "Residential houses",
+  "first-card-p": "Safe and reliable electrical extensions for new homes and renovated homes.",
+  "first-card-list": [
+    "Medium Voltage Networks",
+    "Distribution Transformers",
+    "Monitoring and Control Systems"
+  ],
+  "second-card-title": "Distribution Networks",
+  "second-card-p": "Design and Implementation of Electrical Distribution Networks for Large Complexes and Projects",
+  "second-card-list": [
+    "Medium Voltage Networks",
+    "Distribution Transformers",
+    "Monitoring and Control Systems"
+  ],
+  "third-card-title": "Maintenance and repair",
+  "third-card-p": "24/7 electrical maintenance and repair services",
+  "third-card-list": [
+    "Comprehensive periodic maintenance",
+    "Emergency repairs",
+    "System inspection and diagnosis"
+  ],
+  "fourth-card-title": "Commercial buildings",
+  "fourth-card-p": "Advanced electrical extensions for offices, factories, and shopping centers, for safety and efficiency.",
+  "fourth-card-list": [
+    "Electrical distribution systems",
+    "Advanced control panels",
+    "Emergency systems"
+  ],
+
+  "solar-header": "Solar energy systems",
+  "solar-p": "Advanced solutions for renewable and sustainable energy",
+  "first-solar-card-title": "Installing solar panels",
+  "first-solar-card-p": "Professional installation of solar panels on the roofs of homes and commercial buildings",
+  "first-solar-card-list": ["25-year warranty", "High-efficiency panels"],
+  "second-solar-card-title": "Smart energy management",
+  "second-solar-card-p": "Smart systems for monitoring and managing solar energy production and consumption",
+  "second-solar-card-list": ["Production control", "Mobile app"],
+  "third-solar-card-title": "Energy storage",
+  "third-solar-card-p": "Advanced batteries to store solar energy and use it when needed",
+  "third-solar-card-list": ["Lithium batteries", "Long life"]
 }

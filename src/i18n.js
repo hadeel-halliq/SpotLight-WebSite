@@ -9,7 +9,7 @@ i18n.use(initReactI18next).init({
     en: { translation: en },
     nl: { translation: nl },
   },
-  lng: "en",       // اللغة الافتراضية
+  lng: "nl",       // اللغة الافتراضية
   fallbackLng: "en",
   interpolation: { escapeValue: false },
 });

@@ -1,10 +1,15 @@
-import { useTranslation } from "react-i18next";
+import HeroSection from "./Components/HeroSection";
+import NetworkExtensions from "./Components/NetworkExtensions";
+import Services from "./Components/Services";
+import SolarSystems from "./Components/SolarSystems";
+
 export default function Home() {
-  const { t } = useTranslation();
   return (
     <div>
-      <h1>{t("home_title")}</h1>
-      <p>{t("home_desc")}</p>
+      <HeroSection />
+      <Services />
+      <NetworkExtensions />
+      <SolarSystems />
     </div>
   );
 }

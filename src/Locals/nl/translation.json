@@ -30,5 +30,78 @@
   "contact_desc": "Neem contact met ons op voor meer informatie.",
 
   "error_title": "Pagina Niet Gevonden",
-  "error_desc": "Sorry, de pagina die u zoekt bestaat niet."
+  "error_desc": "Sorry, de pagina die u zoekt bestaat niet.",
+
+  "home": "Home",
+  "last_projects": "Laatste projecten",
+  "services": "Diensten",
+  "contact": "Contact",
+  "about_us": "Over ons",
+
+  "hero-header": "Schijnwerper Elektrotechniek",
+  "hero-disc": "Wij ondersteunen klanten in de niet-residentiële bouw en de particuliere sector bij renovatie en nieuwbouw. We willen onze klanten ontzorgen door met hen mee te denken en oplossingen voor hen te bedenken.",
+  "button-name": "Bel Nu",
+  "second-button-name": "VIDEO AFSPPELEN",
+  "review-text": "5,0 beoordelingen op basis van 150.000 feedbacks",
+
+  "services-header": "Onze diensten zijn op maat gemaakt",
+  "services-p": "Wij bieden een uitgebreid assortiment geavanceerde elektrische diensten voor woningen en bedrijven.",
+  "services-card-title": "Geavanceerd beveiligingssysteem",
+  "services-card-content": "Voor commerciële gebouwen of woonhuizen – 24/7 volledige bescherming",
+  "services-card-list": [
+    "High-definition bewakingscamera's",
+    "Bewegingssensoren",
+    "Inbraakalarm"
+  ],
+  "services-card2-title": "Slim huis systeem",
+  "services-card2-content": "Installatie van slimme besturingssystemen in uw huis of op uw werkplek.",
+  "services-card2-list": [
+    "Verlichting- en airconditioningregeling",
+    "Slim energiebeheer",
+    "Afstandsbediening"
+  ],
+  "experience-years": "Jaren ervaring",
+
+  "electricity-header": "Uitbreidingen van het elektriciteitsnet",
+  "electricity-p": "Geïntegreerde diensten voor het uitbreiden en installeren van elektriciteitsnetwerken",
+  "first-card-title": "Residentiële woningen",
+  "first-card-p": "Veilige en betrouwbare elektrische uitbreidingen voor nieuwe en gerenoveerde woningen",
+  "first-card-list": [
+    "Middenspanningsnetwerken",
+    "Distributietransformatoren",
+    "Monitoring- en regelsystemen"
+  ],
+  "second-card-title": "Distributienetwerken",
+  "second-card-p": "Ontwerp en uitvoering van elektrische distributienetwerken voor grote complexen en projecten",
+  "second-card-list": [
+    "Middenspanningsnetwerken",
+    "Distributietransformatoren",
+    "Monitoring- en besturingssystemen"
+  ],
+  "third-card-title": "Onderhoud en reparatie",
+  "third-card-p": "24/7 elektrische onderhouds- en reparatiediensten",
+  "third-card-list": [
+    "Uitgebreid periodiek onderhoud",
+    "Noodreparaties",
+    "Systeeminspectie en -diagnose"
+  ],
+  "fourth-card-title": "Commerciële gebouwen",
+  "fourth-card-p": "Geavanceerde elektrische uitbreidingen voor kantoren, fabrieken en winkelcentra, voor veiligheid en efficiëntie.",
+  "fourth-card-list": [
+    "Elektrische distributiesystemen",
+    "Geavanceerde bedieningspanelen",
+    "Noodsystemen"
+  ],
+
+  "solar-header": "Zonne-energiesystemen",
+  "solar-p": "Geavanceerde oplossingen voor hernieuwbare en duurzame energie",
+  "first-solar-card-title": "Zonnepanelen installeren",
+  "first-solar-card-p": "Professionele installatie van zonnepanelen op de daken van woningen en commerciële gebouwen",
+  "first-solar-card-list": ["25 jaar garantie", "Hoge-efficiëntiepanelen"],
+  "second-solar-card-title": "Slim energiebeheer",
+  "second-solar-card-p": "Slimme systemen voor het monitoren en beheren van de productie en consumptie van zonne-energie",
+  "second-solar-card-list": ["Productiebeheer", "Mobiele app"],
+  "third-solar-card-title": "Energieopslag",
+  "third-solar-card-p": "Geavanceerde batterijen om zonne-energie op te slaan en te gebruiken wanneer nodig",
+  "third-solar-card-list": ["Lithiumbatterijen", "Lange levensduur"]
 }

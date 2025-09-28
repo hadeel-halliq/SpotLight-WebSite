@@ -1,9 +1,9 @@
 @import "tailwindcss";
 
 @theme {
-  --font-sans: "";
+  --font-sans: "Merriweather";
 
-  --color-primary: ;
+  --color-primary: rgba(198,38,101,1);
   --color-secondary: ;
   --color-backGroundColor: ;
 }
