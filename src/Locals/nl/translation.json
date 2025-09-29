@@ -103,5 +103,8 @@
   "second-solar-card-list": ["Productiebeheer", "Mobiele app"],
   "third-solar-card-title": "Energieopslag",
   "third-solar-card-p": "Geavanceerde batterijen om zonne-energie op te slaan en te gebruiken wanneer nodig",
-  "third-solar-card-list": ["Lithiumbatterijen", "Lange levensduur"]
+  "third-solar-card-list": ["Lithiumbatterijen", "Lange levensduur"],
+
+  "decor-header": "Professionele decorontwerpen",
+  "decor-p": " Innovatieve verlichtingsontwerpen en elektrisch decor voor bedrijven en woningen"
 }

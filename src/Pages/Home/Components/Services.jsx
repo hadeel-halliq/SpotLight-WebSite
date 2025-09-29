@@ -13,7 +13,7 @@ export default function Services() {
       <h2 className="text-center mt-11 sm:mt-20 mb-2 font-bold text-lg sm:text-2xl [word-spacing:8px]">{t("services-header")}</h2>
       <p className="text-center text-sm sm:text-xl mb-10 [word-spacing:5px]">{t("services-p")}</p>
       <div className="flex flex-col-reverse gap-3 md:flex-row md:justify-between">
-        <div className="flex flex-col justify-center items-center gap-4 ">
+        <div className="flex flex-col justify-center items-center gap-4 mb-2">
             <ServicesCard icon={securityIcon} title="services-card-title" content="services-card-content"  listContent={t("services-card-list", { returnObjects: true })}/>
             <ServicesCard icon={homeIcon} title="services-card2-title" content="services-card2-content"  listContent={t("services-card2-list", { returnObjects: true })}/>
         </div>

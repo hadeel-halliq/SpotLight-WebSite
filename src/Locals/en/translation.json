@@ -103,5 +103,8 @@
   "second-solar-card-list": ["Production control", "Mobile app"],
   "third-solar-card-title": "Energy storage",
   "third-solar-card-p": "Advanced batteries to store solar energy and use it when needed",
-  "third-solar-card-list": ["Lithium batteries", "Long life"]
+  "third-solar-card-list": ["Lithium batteries", "Long life"],
+
+  "decor-header": "Professional decor designs",
+  "decor-p": "Innovative lighting designs and electrical decor for businesses and homes"
 }
