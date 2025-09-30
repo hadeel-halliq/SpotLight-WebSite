@@ -46,12 +46,12 @@ export default function DecorSection() {
               consequatur vitae. Hic, repudiandae minus!
             </p>
           </div>
-          <div className="max-sm:flex max-sm:flex-col max-sm:items-center max-sm:justify-center max-sm:gap-4 lg:w-1/2 relative h-[660px]">
+          <div className="max-sm:h-[350px] max-sm:grid max-sm:grid-cols-2 max-sm:items-center max-sm:justify-center max-sm:gap-4 lg:w-1/2 relative h-[660px]">
             {images.map((img, i) => (
               <img
                 key={i}
                 src={img.src}
-                className={`absolute max-sm:static max-sm:w-[150px] ${img.position}`}
+                className={`absolute max-sm:static  ${img.position}`}
                 alt={`decor-${i}`}
               />
             ))}
