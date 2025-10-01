@@ -16,7 +16,7 @@ export default function LanguageSwitcher() {
     setIsOpen(false);
   };
   return (
-    <div>
+    <div className=" ">
       <button
         onClick={() => setIsOpen(!isOpen)}
         className="flex justify-center items-center gap-1 absolute h-10 xl:h-6 right-12 z-40 cursor-pointer"

@@ -33,7 +33,7 @@
   "error_desc": "Sorry, the page you are looking for does not exist.",
 
   "home": "Home",
-  "last_projects": "Last Projects",
+  "last_projects":"Projects",
   "services": "Services",
   "contact": "Contact",
   "about_us": "About us",
@@ -106,5 +106,12 @@
   "third-solar-card-list": ["Lithium batteries", "Long life"],
 
   "decor-header": "Professional decor designs",
-  "decor-p": "Innovative lighting designs and electrical decor for businesses and homes"
+  "decor-p": "Innovative lighting designs and electrical decor for businesses and homes",
+
+  "projects-header" : "Our Latest Projects",
+  "projects-p": "Watch our professional work in action. We take pride in delivering high-quality solutions for every project.",
+
+  "customers-opinions-header": "Our customers' opinions",
+  "customers-opinions-p": "What our clients say about the quality of our work and level of service"
 }
+

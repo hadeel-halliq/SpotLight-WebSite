@@ -12,15 +12,14 @@ const navContent = [
   { key: "about_us", to: "/aboutus" },
 ];
 
-
 export default function NavBar() {
   const { t } = useTranslation();
   const [isOpen, setIsOpen] = useState(false);
 
   return (
-    <>
-      <ul className="w-[69%] hidden md:flex justify-center gap-[10px] lg:gap-[30px]  rounded-3xl relative left-32 mb-2 text-[16px] lg:text-lg bg-white font-bold">
-      {/* <ul className="w-[66%] h-[20%] hidden md:flex justify-center gap-[10px] lg:gap-[30px]  rounded-3xl relative left-[-100px] mb-2 text-[16px] lg:text-lg bg-white font-bold"> */}
+    <div>
+      {/* <ul className="hidden w-[876px] xl:w-[880px] mb-6 py-0.5 rounded-bl-[200px] rounded-br-[200px]   md:flex justify-center gap-[10px] lg:gap-[30px] relative left-[37px] text-[16px] lg:text-lg bg-white font-bold"> */}
+     <ul className="hidden md:flex sp-md-range:w-[900px] ">
         {navContent.map((item, index) => (
           <NavLink
             key={index}
@@ -35,7 +34,7 @@ export default function NavBar() {
                 {isActive && (
                   <motion.span
                     layoutId="underline"
-                    className="absolute left-0 right-0 -bottom-1 h-[2px] bg-primary rounded"
+                    className="absolute left-0 right-0 bottom-1 h-[2px] bg-primary rounded"
                     transition={{ type: "spring", stiffness: 500, damping: 30 }}
                   />
                 )}
@@ -45,7 +44,10 @@ export default function NavBar() {
         ))}
       </ul>
       <div className="md:hidden relative">
-        <button className="text-2xl p-2 cursor-pointer" onClick={() => setIsOpen(!isOpen)}>
+        <button
+          className="text-2xl p-2 cursor-pointer"
+          onClick={() => setIsOpen(!isOpen)}
+        >
           {isOpen ? <FiX /> : <FiMenu />}
         </button>
 
@@ -78,6 +80,6 @@ export default function NavBar() {
             ))}
         </AnimatePresence>
       </div>
-    </>
+    </div>
   );
 }

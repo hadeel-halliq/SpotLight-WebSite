@@ -5,7 +5,7 @@ import Footer from "../Components/LayOuts/Footer";
 
 export default function MainLayout() {
   return (
-    <>
+    < >
       <ScrollToTop />
       <Header />
       <main>

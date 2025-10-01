@@ -2,8 +2,13 @@
 
 @theme {
   --font-sans: "Merriweather";
-
   --color-primary: rgba(198,38,101,1);
   --color-secondary: rgba(33,28,91,1);
   --color-backGroundColor: ;
+  extend: {
+      screens: {
+        'sp-md-range': {'min': '1024px', 'max': '1060px'},
+        'sp-lg-range': {'min': '1061px'},
+      },
+    }
 }

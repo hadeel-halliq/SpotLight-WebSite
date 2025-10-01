@@ -33,7 +33,7 @@
   "error_desc": "Sorry, de pagina die u zoekt bestaat niet.",
 
   "home": "Home",
-  "last_projects": "Laatste projecten",
+  "last_projects": "Projecten",
   "services": "Diensten",
   "contact": "Contact",
   "about_us": "Over ons",
@@ -106,5 +106,11 @@
   "third-solar-card-list": ["Lithiumbatterijen", "Lange levensduur"],
 
   "decor-header": "Professionele decorontwerpen",
-  "decor-p": " Innovatieve verlichtingsontwerpen en elektrisch decor voor bedrijven en woningen"
+  "decor-p": " Innovatieve verlichtingsontwerpen en elektrisch decor voor bedrijven en woningen",
+
+   "projects-header" : "Onze Nieuwste Projecten",
+  "projects-p": " Zie ons professionele werk in actie. We zijn trots op het leveren van hoogwaardige oplossingen voor elk project.",
+
+  "customers-opinions-header": "De meningen van onze klanten",
+  "customers-opinions-p": "Wat onze cliënten zeggen over de kwaliteit van ons werk en het serviceniveau."
 }
